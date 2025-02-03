@@ -32,14 +32,6 @@ export default function Header() {
             >
               Create
             </Link>
-            <Link
-              href="/gallery"
-              className={`text-gray-600 hover:text-blue-600 transition-colors text-sm ${
-                pathname === '/gallery' ? 'text-blue-600' : ''
-              }`}
-            >
-              Gallery
-            </Link>
           </nav>
         </div>
       </div>
