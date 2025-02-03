@@ -15,7 +15,7 @@ export default function CreatePage() {
             <div className="bg-white/90 backdrop-blur-sm rounded-2xl shadow-xl p-8">
               <div className="text-center space-y-2 mb-8">
                 <h1 className="text-3xl font-bold bg-gradient-to-r from-blue-600 via-purple-600 to-pink-600 text-transparent bg-clip-text">
-                  Create Marketing Visual
+                  AI Marketer
                 </h1>
                 <p className="text-sm text-gray-500">
                   Powered by <a href="https://studio.nebius.ai" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline">Nebius AI Studio</a>
